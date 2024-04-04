@@ -1,0 +1,24 @@
+{
+  "name": "learndsa",
+  "version": "1.0.0",
+  "description": "Dsa Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "npm run test -- --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mankal-27/LearnDsa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mankal-27/LearnDsa/issues"
+  },
+  "homepage": "https://github.com/mankal-27/LearnDsa#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
